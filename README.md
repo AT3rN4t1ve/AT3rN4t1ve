@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Atthakit Khampraphai
 
-**Computer Science Student | Front-End | Back-End | Full-Stack Developer**
+**Front-End | Back-End | Full-Stack Developer | Web Developer**
 
 ---
 
