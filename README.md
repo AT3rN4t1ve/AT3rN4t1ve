@@ -6,8 +6,7 @@
 
 🎓 I'm currently studying Computer Science (Bachelor's degree)  
 💻 Passionate about building web applications with modern technologies  
-🚀 Interested in Full-Stack Development and Software Engineering  
-🌏 Career goal: Gain experience in Thailand and work in Japan in the future  
+🚀 Interested in Full-Stack Developer or Back-End Developer and Software Engineering
 
 ---
 
