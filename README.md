@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Atthakit Khampraphai
 
-**Front-End | Back-End | Full-Stack Developer | Web Developer**
+**Back-End | Full-Stack Developer | Web Developer**
 
 ---
 
